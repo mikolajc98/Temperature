@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MySQLDb.Properties" GeneratedClassName="SystemSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DatabaseServerIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="DefaultDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">temperatures</Value>
+    </Setting>
+    <Setting Name="UserLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">appUserAccount</Value>
+    </Setting>
+    <Setting Name="UserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">zaq1@WSX</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
